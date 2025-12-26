@@ -31,7 +31,7 @@ I’m a Computer Science & Engineering graduate with a strong passion for buildi
 ---
 
 ## 📊 GitHub Statistics
-![Jamshed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshedShahriar&show_icons=true&theme=github_dark)
+![Jamshed's GitHub stats](https://github.com/JamshedShahriar)
 
 ---
 
