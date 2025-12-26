@@ -43,4 +43,3 @@ I’m a Computer Science & Engineering graduate with a strong passion for buildi
 
 ---
 
-> *“First, solve the problem. Then, write the code.”* — John Johnson
