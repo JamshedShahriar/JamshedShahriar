@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Jamshed Shahriar
 
-🎓 **CSE Engineer** | 💻 Software Developer 
+🎓 **CSE Engineer** | 💻 Software Developer | 🎨 Graphics Designer
+
 
 Welcome to my GitHub profile!  
 I’m a Computer Science & Engineering graduate with a strong passion for building efficient, scalable, and user-friendly software solutions. I enjoy learning new technologies and contributing to open-source projects.
@@ -36,10 +37,12 @@ I’m a Computer Science & Engineering graduate with a strong passion for buildi
 ---
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jamshed-shahriar-277160254/))
-- 📧 [Email](https://mail.google.com/mail/u/0/#inbox))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jamshed-shahriar-277160254/)
+- 📧 [Email](mailto:jamshedshahriar12@gmail.com)
 - 📸 [Instagram](https://www.instagram.com/jamshed_shahriar)
 - 📘 [Facebook](https://www.facebook.com/share/1CPVenxRCC/)
+- 🎨 [Behance](https://www.behance.net/jamshedshahriar)
+
 
 ---
 
